@@ -1,7 +1,6 @@
 from Qt import QtCore, QtGui, QtWidgets
 
 
-
 class VerticalLine(QtWidgets.QFrame):
     
     def __init__(self):
